@@ -1,4 +1,4 @@
-const API_URL = "aHR0cHM6Ly9naXRodWIuY29tL2phdHVhbmFuaC9hem90YV9hbnN3ZXIvYmxvYi9tYWluL2RhdGEuanNvbg==";
+const API_URL = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2phdHVhbmFuaC9hem90YV9hbnN3ZXIvbWFpbi9kYXRhLmpzb24=";
 var count = 0;
 var isCheated = false;
 
